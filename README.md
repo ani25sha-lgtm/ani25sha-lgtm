@@ -9,4 +9,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ani25sha-lgtm&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ani25sha-lgtm&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ani25sha-lgtm&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ani25sha-lgtm&icon=9&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
