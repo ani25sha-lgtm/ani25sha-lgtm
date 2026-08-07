@@ -1,4 +1,4 @@
-# 💫 About Me:<br><h4>☘️Early in my coding journey, but serious about improving every day.<br>✨I turn simple ideas into clean, functional projects—one problem at a time.<br>🔍Outside tech, I love exploring psychology and finance—understanding minds, habits, and the stories behind how we make choices.<h4>
+## 💫 About Me:<br><h4>☘️Early in my coding journey, but serious about improving every day.<br>✨I turn simple ideas into clean, functional projects—one problem at a time.<br>🔍Outside tech, I love exploring psychology and finance—understanding minds, habits, and the stories behind how we make choices.<h4>
 
 
 ## 🌐 Socials:
