@@ -1,7 +1,7 @@
-## 💫 About Me:<br><h4>☘️Early in my coding journey, but serious about improving every day.<br>✨I turn simple ideas into clean, functional projects—one problem at a time.<br>🔍Outside tech, I love exploring psychology and finance—understanding minds, habits, and the stories behind how we make choices.<h4>
+# 💫 About Me:<br><h4>☘️Early in my coding journey, but serious about improving every day.<br>✨I turn simple ideas into clean, functional projects—one problem at a time.<br>🔍Outside tech, I love exploring psychology and finance—understanding minds, habits, and the stories behind how we make choices.<h4>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anishaa_113) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anisha-bag-01911a308) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/aniii_2005
 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ani25sha@gmail.com) 
 
